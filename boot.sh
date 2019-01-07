@@ -7,6 +7,3 @@ fi
 
 /bin/zsh  -c ". ./d2l.ai/bin/activate ; exec pip install -r requirements.txt"
 /bin/zsh  -c ". ./d2l.ai/bin/activate ; exec jupyter notebook --port 8888"
-
-
-
